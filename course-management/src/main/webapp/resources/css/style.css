@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+h1 {
+	font-weight: bolder;
+	color: dark;
+}
+
+.mycontainer{
+
+    max-width:560px;
+		margin: auto;
+		width: 60%;
+		border: 5px solid #0674f9;
+		padding: 10px;
+}
